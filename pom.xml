@@ -22,7 +22,7 @@
         <version>1.16.1</version>
     </parent>
 
-    <groupId>ai.xaana</groupId>
+    <groupId>com.example</groupId>
     <artifactId>rtftopdfconverter</artifactId>
     <version>1.0.0</version>
     <packaging>pom</packaging>
